@@ -1,0 +1,26 @@
+﻿using System;
+
+namespace Stringie.Actions.Remove
+{
+    public class RemoveString
+    {
+        private readonly string _source;
+
+        internal RemoveString(string source)
+        {
+            _source = source;
+        }
+
+        internal string Source { get { return _source; } }
+
+        public static implicit operator string(RemoveString removeString)
+        {
+            return removeString.ToString();
+        }
+
+        public override string ToString()
+        {
+            return _source != null ? String.Empty : null;
+        }
+    }
+}

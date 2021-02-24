@@ -10,24 +10,24 @@ Your mission, Jim, should you decide to accept it, is to write at least three un
 
 1. Clone this repo
 2. Create a unit test project
-  * Use an appropiate name
+	* Use an appropiate name
 3. Add Stringie as a project reference to your test project
 4. Pick one of the Stringie methods
-  * `Insert`
-  * `Remove`
-  * `RemoveVowels`
-  * `RemoveChars`
-  * `IsEmpty`, `OrWhiteSpace`
-  * `IndexesOf`
+	* `Insert`
+	* `Remove`
+	* `RemoveVowels`
+	* `RemoveChars`
+	* `IsEmpty`, `OrWhiteSpace`
+	* `IndexesOf`
 5. Write at least three unit tests for the method you picked
-  * Use an appropiate name for your test files
-  * Follow a naming convention: sentence, UnitOfWork_Scenario_Result, GivenWhenThen
-  * Follow Arrange/Act/Assert
-  * Use the simplest string to test
-  * Think of edge cases:
-	* Empty strings
-	* Positions outside of a string length
-	* Repeated substrings
+	* Use an appropiate name for your test files
+	* Follow a naming convention: sentence, UnitOfWork_Scenario_Result, GivenWhenThen
+	* Follow Arrange/Act/Assert
+	* Use the simplest string to test
+	* Think of edge cases:
+		* Empty strings
+		* Positions outside of a string length
+		* Repeated substrings
   * Use proper assertion methods
 6. (Optional) Use an assertion library like [FluentAssertions](https://fluentassertions.com/introduction) or [Shouldly](https://github.com/shouldly/shouldly) to write your assertions
 

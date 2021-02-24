@@ -9,7 +9,7 @@ Your mission, Jim, should you decide to accept it, is to fix the unit test Strin
 1. Clone this repo
 2. Does the project compile? Are all tests passing? If that's not the case, make them pass
 3. Does the test project follow a naming convention?
-  * Does the test project name have a `Tests` or `UnitTests` suffix?
+	* Does the test project name have a `Tests` or `UnitTests` suffix?
 4. Are the tests organized in the appropiate files? 
 5. Do the test names follow a naming convention? For example: sentence, UnitOfWork_Scenario_Result, GivenWhenThen
 6. Do the tests follow Arrange/Act/Assert?
@@ -39,10 +39,10 @@ For example,
 [DataRow("HeLLo")]
 public void Remove_SubstringWithDifferentCase_RemovesSubstring(string substringToRemove)
 {
-	var str = "Hello, world!";
+    var str = "Hello, world!";
 
-	var transformed = str.RemoveAll(substringToRemove).IgnoringCase();
+    var transformed = str.RemoveAll(substringToRemove).IgnoringCase();
 
-	Assert.AreEqual(", world!", transformed);
+    Assert.AreEqual(", world!", transformed);
 }
 ```

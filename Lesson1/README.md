@@ -28,7 +28,7 @@ Your mission, Jim, should you decide to accept it, is to write at least three un
 		* Empty strings
 		* Positions outside of a string length
 		* Repeated substrings
-  * Use proper assertion methods
+	* Use proper assertion methods
 6. (Optional) Use an assertion library like [FluentAssertions](https://fluentassertions.com/introduction) or [Shouldly](https://github.com/shouldly/shouldly) to write your assertions
 
 ### Stringie

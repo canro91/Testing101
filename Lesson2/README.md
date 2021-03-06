@@ -13,13 +13,13 @@ Your mission, Jim, should you decide to accept it, is to fix the unit test Strin
 4. Are the tests organized in the appropiate files? 
 5. Do the test names follow a naming convention? For example: sentence, UnitOfWork_Scenario_Result, GivenWhenThen
 6. Do the tests follow Arrange/Act/Assert?
-	* Does the code inside each test separated with line breaks to show each part?
+	* Is the code inside each test separated with line breaks to show each part?
 7. Do the tests use an Assertion library? If that's not the case, rewrite those test to use MsTests
 8. Do the tests use the appropiate Assert methods? For example: `AreNull` instead of `AreEqual` with a `null` value, `Assert.AreEqual` instead of `IsTrue` with a comparison
 9. Do the tests have a single assertion per test? It that's not the case, use Parameterized tests
 10. Do the assertions repeat the logic under test?
 	
-You can take a look at the README file from [Lesson 1](../Lesson1/README.md) to check all the Stringie avialable methods.
+You can take a look at the README file from [Lesson 1](../Lesson1/README.md) to check all the Stringie available methods.
 
 ### How to create Parameterized tests with MsTests
 

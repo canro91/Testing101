@@ -4,7 +4,7 @@
 
 In lesson 1, you will write some unit tests for Stringie, a library to transform strings. Stringie developers heard about unit testing and wrote "something" like unit tests.
 
-In this lesson, you will write 2 or 3 unit tests for one of the Stringie methods. This lesson will teach you how to organize your test in a solution and how to name your test projects, classes and methods.
+In this lesson, you will write 2 or 3 unit tests for one of the Stringie methods. This lesson will teach you how to organize your tests in a solution and how to name your test projects, classes and methods.
 
 **[Begin Lesson 1](Lesson1/README.md)**.
 

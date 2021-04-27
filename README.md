@@ -16,6 +16,14 @@ In this lesson, you will have to fix the tests Stringie developers wrote.
 
 **[Begin Lesson 2](Lesson2/README.md)**.
 
+## Lesson 3: Let's rename our tests
+
+In lesson 3, you will have to rename some unit tests. This time, Stringie developers fixed almost all the mistakes in their test, except one type of mistakes: test names.
+
+In this lesson, you will have to follow a naming convention.
+
+**[Begin Lesson 3](Lesson3/README.md)**.
+
 ## Credits
 
 Stringie is intended for learning purposes only. Stringie methods were taken from [FluentStrings](https://github.com/MSayfullin/FluentStrings).

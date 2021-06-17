@@ -18,7 +18,7 @@ In this lesson, you will have to fix the tests Stringie developers wrote.
 
 ## Lesson 3: Let's rename our tests
 
-In lesson 3, you will have to rename some unit tests. This time, Stringie developers fixed almost all the mistakes in their tests, except fro one type of mistake: test names.
+In lesson 3, you will have to rename some unit tests. This time, Stringie developers fixed almost all the mistakes in their tests, except for one type of mistake: test names.
 
 In this lesson, you will have to follow a naming convention.
 

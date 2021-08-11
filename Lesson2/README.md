@@ -21,7 +21,7 @@ Your mission, Jim, should you decide to accept it, is to fix the unit test Strin
 	
 You can take a look at the README file from [Lesson 1](../Lesson1/README.md) to check all the Stringie available methods.
 
-### How to create Parameterized tests with MsTests
+### How to create Parameterized tests with MSTest
 
 To write a parameterized test, follow these steps:
 

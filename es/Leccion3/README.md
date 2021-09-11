@@ -1,6 +1,6 @@
 # Lección 3: Renombra tus tests
 
-Para aprender a nombrar tus tests, refactoriza los unit tests que escribieron los desarrolladores de Stringie. Esta vez, corrigieron algunos de los errores cometidos en la lección 2, pero olvidaron seguir una convención de nombres. Encontrarás la solución con los tests que escribieron [aquí](../../Lesson3/Stringie). 
+Para aprender a nombrar tus tests, refactoriza los unit tests que escribieron los desarrolladores de Stringie. Esta vez, corrigieron algunos de los errores cometidos en la [lección 2](../Leccion2/README.md), pero olvidaron seguir una convención de nombres. Encontrarás la solución con los tests que escribieron [aquí](../../Lesson3/Stringie). 
 
 Los nombres de los test, deberían dar a entender el escenario bajo prueba y los resultados esperados. Cuando escribas unit tests, no te preocupes si usas nombres largos, pues los nombres de los tests indican el propósito de lo que se está poniendo a prueba. No necesitas mensajes de aserción, si nombras tus tests de manera correcta. 
 

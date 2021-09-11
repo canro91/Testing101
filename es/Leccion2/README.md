@@ -1,6 +1,6 @@
 # Lección 2: Corrige algunos tests
 
-Para evitar errores comunes, corrige algunos unit tests que escribieron los desarrolladores de Stringie. Esta vez, convirtieron el proyecto de consola de la [lección 1](../Lesson1/README.md) en un proyecto real de testing, y escribieron algunos unit tests; pero olvidaron seguir una convención de nombres, entre otros errores. Encontrarás la solución con los tests que escribieron [aquí](../../Lesson2/Stringie). 
+Para evitar errores comunes, corrige algunos unit tests que escribieron los desarrolladores de Stringie. Esta vez, convirtieron el proyecto de consola de la [lección 1](../Leccion1/README.md) en un proyecto real de testing, y escribieron algunos unit tests; pero olvidaron seguir una convención de nombres, entre otros errores. Encontrarás la solución con los tests que escribieron [aquí](../../Lesson2/Stringie). 
 
 Tu misión Jim, si decides aceptarla, es corregir los unit test que los desarrolladores de Stringie escribieron erróneamente. Encontrarás las instrucciones a continuación. Este mensaje se autodestruirá en cinco segundos. Buena suerte, Jim.
 

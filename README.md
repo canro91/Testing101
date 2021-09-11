@@ -1,6 +1,6 @@
 # Unit Testing 101
 
-Read in other languages [Español](/es/README.md)
+_Read in other languages [Español](/es/README.md)_
 
 ## Lesson 1: Let's write our first unit tests
 

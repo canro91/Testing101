@@ -19,6 +19,8 @@ Tu misión Jim, si decides aceptarla, es corregir los unit test que los desarrol
 9. ¿Los tests tienen una sola aserción por test? Si no es así, usa tests parametrizados
 10. ¿Las aserciones repiten la lógica bajo prueba?
 
+Para más ejemplos de errores al escribir unit tests, revisa [4 common mistakes when writing your first unit tests](https://canro91.github.io/2021/03/29/UnitTestingCommonMistakes/).
+
 Puedes echar un vistazo al archivo README de la [lección 1](../Leccion1/README.md), para revisar todos los métodos de Stringie disponibles.
 
 ### Cómo crear tests parametrizados con MSTest

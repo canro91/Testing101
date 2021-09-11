@@ -18,7 +18,9 @@ Your mission, Jim, should you decide to accept it, is to fix the unit test Strin
 8. Do the tests use the appropiate Assert methods? For example: `AreNull()` instead of `AreEqual()` with a `null` value, `Assert.AreEqual()` instead of `IsTrue()` with a comparison
 9. Do the tests have a single assertion per test? It that's not the case, use Parameterized tests
 10. Do the assertions repeat the logic under test?
-	
+
+For more examples of mistakes when writing unit tests, check [4 common mistakes when writing your first unit tests](https://canro91.github.io/2021/03/29/UnitTestingCommonMistakes/).
+
 You can take a look at the README file from [Lesson 1](../Lesson1/README.md) to check all the Stringie available methods.
 
 ### How to create Parameterized tests with MSTest

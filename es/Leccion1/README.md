@@ -33,9 +33,7 @@ Tu misión Jim, si decides aceptarla, es escribir al menos tres unit tests para 
 
 ### Stringie
 
-Stringie is a library with a powerful set of utilities to transform strings using a fluent interface.
-
-Stringie es una librería con un amplio set de utilidades para transformar cadenas usando una interface "fluent".
+Stringie es una librería con un amplio conjunto de utilidades para transformar cadenas usando una interface "fluent".
 
 ### Ejemplos
 
